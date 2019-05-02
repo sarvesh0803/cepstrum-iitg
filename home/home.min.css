@@ -1,3 +1,37 @@
+.InPhaseAd {
+
+    width:100%;
+    height: 30vw;
+    padding-right: 3.5vw;
+    padding-left: 3.5vw;
+    padding-bottom:.5vw
+
+}
+.poster{
+
+    width:100%;
+    height:100%;
+
+    border: black;
+
+}
+.poster:hover{
+
+    border: solid;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .figure {
     -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .3);
     box-shadow: 0 0 10px rgba(0, 0, 0, .3)
